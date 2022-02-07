@@ -1,1 +1,1 @@
-Highlights of some of the projects done during undergrad
+Highlights of some of the robotics projects I did during undergrad:
