@@ -1,0 +1,6 @@
+Topic names:['3d_Printer', 'Cooking', 'Astronomy']
+Best accuracy for best value of k for best KNN algorithm is:
+Best accuracy:	0.95
+Best KNN:	Cosine
+Best K:		5
+Average accuracy for Naive Bayes: 0.9393333333333341

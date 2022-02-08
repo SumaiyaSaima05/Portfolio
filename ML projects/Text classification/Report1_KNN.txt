@@ -1,0 +1,11 @@
+Accuracy for 3 values for 3 algorithms are given below:
+Algorithm	K	ACCURACY
+Hamming		1	0.7
+Hamming		3	0.75
+Hamming		5	0.75
+Euclid		1	0.8
+Euclid		3	0.75
+Euclid		5	0.8166666666666667
+Cosine		1	0.9333333333333333
+Cosine		3	0.9
+Cosine		5	0.95
