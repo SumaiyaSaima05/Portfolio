@@ -36,7 +36,7 @@ As a part of my work, I often have to survey papers from different domains of Ar
 
 ### Machine Learning Projects
 
-**[This folder](https://github.com/SumaiyaSaima05/Portfolio-Contents/tree/master/Problem%20solving%20using%20AI)** includes some of my machine learning based projects such as:
+**[This folder](https://github.com/SumaiyaSaima05/Portfolio/tree/master/ML%20projects)** includes some of my machine learning based projects such as:
 - Text classification using k-Nearest Neighbour and Naive Bayes
 - Predicting house prices using neural networks
 - Decision Tree implementation 
