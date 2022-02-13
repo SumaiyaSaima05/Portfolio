@@ -1,5 +1,5 @@
 # About me
-Hello there! I am Sumaiya Saima. I am an Artificial Intelligence Research Engineer currently located in Tokyo, Japan. I have graduated from the Department of Mechanical Engineering, Bangladesh University of Engineering & Technology in October,2018. My interests include machine Learning,deep learning, computer vision, robustness analysis,multi-task learning and fairness in machine learning. 
+Hello there! I am Sumaiya Saima. I am an Artificial Intelligence Research Engineer currently located in Tokyo, Japan. I have graduated from the Department of Mechanical Engineering, Bangladesh University of Engineering & Technology in October,2018. My interests include machine Learning,deep learning, computer vision,autonomous driving, robustness analysis,multi-task learning and fairness in machine learning. 
 
 
 I have been working with the AIQM-reference team in **[National Institute of Advanced Industrial Science & Technology](https://www.aist.go.jp/index_en.html)** on behalf of **[Hiperdyne Corporation](https://hiperdyne.com/)** since July,2019. My primary focus is creating in-depth demonstration of quality evaluation of AI products using this **[Machine Learning Quality Management Guideline](https://www.digiarc.aist.go.jp/en/publication/aiqm/)** published by AIST. While creating such technical reports for AI products, my responsibilities include :
