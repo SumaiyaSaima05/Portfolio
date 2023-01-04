@@ -1,21 +1,27 @@
 # About me
-Hello there! I am Sumaiya Saima. I am an Artificial Intelligence Research Engineer currently located in Tokyo, Japan. I have graduated from the Department of Mechanical Engineering, Bangladesh University of Engineering & Technology in October,2018. My interests include machine Learning,deep learning, computer vision,autonomous driving, robustness analysis,multi-task learning and fairness in machine learning. 
+Hello there! I am Sumaiya Saima. I am working as Machine Learning Researcher at [MI-6](https://mi-6.co.jp/) (a material informatics based company located in Tokyo, Japan). My current focus in MI-6 is optimization of black-box systems espeically using Bayesian Optimization . My personal interests include computer vision,deep learning, autonomous driving.I also have expertise in robustness analysis and fairness analysis of machine learning models.
 
 
-I have been working with the AIQM-reference team in **[National Institute of Advanced Industrial Science & Technology](https://www.aist.go.jp/index_en.html)** on behalf of **[Hiperdyne Corporation](https://hiperdyne.com/)** since July,2019. My primary focus is creating in-depth demonstration of quality evaluation of AI products using this **[Machine Learning Quality Management Guideline](https://www.digiarc.aist.go.jp/en/publication/aiqm/)** published by AIST. While creating such technical reports for AI products, my responsibilities include :
+
+Previously I worked an Artificial Intelligence Research Engineer in Hiperdyne Corporation(Tokyo, Japan) after I graduated from the Department of Mechanical Engineering, Bangladesh University of Engineering & Technology in October,2018. 
+
+I have been fortunate enough to work with the AIQM-reference team in **[National Institute of Advanced Industrial Science & Technology(AIST)](https://www.aist.go.jp/index_en.html)** on behalf of **[Hiperdyne Corporation](https://hiperdyne.com/)** (July,2019-March,2022). My primary focus was creating in-depth demonstration of quality evaluation of AI products using a **[Machine Learning Quality Management Guideline](https://www.digiarc.aist.go.jp/en/publication/aiqm/)** published by AIST. While creating technical reports for AI products, my responsibilities include :
  
-- Requirement analysis
-- Business Requirement Document(BRD) preparation 
+- Requirement analysis of ML products
+- Business Requirement Document(BRD) designing
 - Problem domain analysis
 - Exploratory data analysis
 - Survey and implementation of relevant AI technologies
-- Proof of Concept, and last but not least
-- Quality evaluation of the AI product
+- performing Proof of Concepts for sample AI products, and last but not least
+- Standardizing the quality evaluation procedure of the AI products
 
-You can find out more about what our team does from  **[this technical report](https://www.digiarc.aist.go.jp/publication/aiqm/AIQM-reference-2020.pdf)**. <br>
+Two years worth of joint work done with the team was published by AIST's [Digital Architechture Research Center](https://www.digiarc.aist.go.jp/en/publication/aiqm/referenceguide.html) as **[this technical report](https://www.digiarc.aist.go.jp/publication/aiqm/aiqm-referenceguide-v1.4-en.pdf)**. <br> I will always cherish that I was a part of this excellent project.
+
+Entirely from personal interest in multi-task learning, I co-authored a paper [(Boosting auxiliary task guidance: a probabilistic approach)] (https://ijai.iaescore.com/index.php/IJAI/article/view/21444). I wish to continue my work as an independent researcher no matter what I do professionally.
+
 
 # My Portfolio
-
+(I can only share a glimpse of what I usually do at my work for obvious reasons. Kindly reach out to me if you wish learn more about my personal works.)
 ## Contents
 
 The contents of this portfolio are:.
