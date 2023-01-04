@@ -17,7 +17,7 @@ I have been fortunate enough to work with the AIQM-reference team in **[National
 
 Two years worth of joint work done with the team was published by AIST's [Digital Architechture Research Center](https://www.digiarc.aist.go.jp/en/publication/aiqm/referenceguide.html) as **[this technical report](https://www.digiarc.aist.go.jp/publication/aiqm/aiqm-referenceguide-v1.4-en.pdf)**. <br> I will always cherish that I was a part of this excellent project.
 
-Entirely from personal interest in multi-task learning, I co-authored a paper [(Boosting auxiliary task guidance: a probabilistic approach)] (https://ijai.iaescore.com/index.php/IJAI/article/view/21444). I wish to continue my work as an independent researcher no matter what I do professionally.
+Entirely from personal interest in multi-task learning, I co-authored a paper [(Boosting auxiliary task guidance: a probabilistic approach)](https://ijai.iaescore.com/index.php/IJAI/article/view/21444). I wish to continue my work as an independent researcher no matter what I do professionally.
 
 
 # My Portfolio
