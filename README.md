@@ -1,11 +1,11 @@
 # About me
-Hello there! I am Sumaiya Saima. I am working as Machine Learning Researcher at [MI-6](https://mi-6.co.jp/) (a material informatics based company located in Tokyo, Japan). My current focus in MI-6 is optimization of black-box systems espeically using Bayesian Optimization . My personal interests include computer vision,deep learning, autonomous driving.I also have expertise in robustness analysis and fairness analysis of machine learning models.
+Hello there! I am Sumaiya Saima. I am working as Machine Learning Researcher at [MI-6](https://mi-6.co.jp/) (a material informatics based company located in Tokyo, Japan). My current focus in MI-6 is optimization of black-box systems espeically using Bayesian Optimization in the field of Material Informatics.My responsibilites include research, validation and benchmarking of ML technologies that has potential to improve the value of our SaaS product. My personal interests include computer vision,deep learning, autonomous driving.I also have expertise in robustness analysis and fairness analysis of machine learning models.
 
 
 
 Previously I worked an Artificial Intelligence Research Engineer in Hiperdyne Corporation(Tokyo, Japan) after I graduated from the Department of Mechanical Engineering, Bangladesh University of Engineering & Technology in October,2018. 
 
-I have been fortunate enough to work with the AIQM-reference team in **[National Institute of Advanced Industrial Science & Technology(AIST)](https://www.aist.go.jp/index_en.html)** on behalf of **[Hiperdyne Corporation](https://hiperdyne.com/)** (July,2019-March,2022). My primary focus was creating in-depth demonstration of quality evaluation of AI products using a **[Machine Learning Quality Management Guideline](https://www.digiarc.aist.go.jp/en/publication/aiqm/)** published by AIST. While creating technical reports for AI products, my responsibilities include :
+I have been fortunate enough to work with the AIQM-reference team in **[National Institute of Advanced Industrial Science & Technology(AIST)](https://www.aist.go.jp/index_en.html)** on behalf of **[Hiperdyne Corporation](https://hiperdyne.com/)** (July,2019-March,2022). My primary focus was creating in-depth demonstration of quality evaluation of AI products using a **[Machine Learning Quality Management Guideline](https://www.digiarc.aist.go.jp/en/publication/aiqm/)** published by AIST. While creating technical reports for AI products, my responsibilities included :
  
 - Requirement analysis of ML products
 - Business Requirement Document(BRD) designing
